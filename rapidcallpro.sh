@@ -16,7 +16,7 @@ reset_color='\033[0m'
 echo -e "${text_color}${ascii_art}${reset_color}"
 
 
-echo "Running RapidCallPro app..."
+echo "Running RapidCallPro..."
 
 
 validate_phone_number() {
