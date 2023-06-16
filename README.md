@@ -1,7 +1,9 @@
 # RapidCallPro
-<p align = "center"> <img src="https://raw.githubusercontent.com/human71/RapidCallPro/main/preview.png"></p>
+An app that calls your terget repeatedly. It takes input from users for the phone number and the time interval, and executes the provided command using adb(install adb if not available)
 
-An app that calls your terget repeatedly. It takes input from users for the phone number and the time interval, and executes the provided command using adb in a loop::
+<br>
+<p align = "center"> <img src="https://raw.githubusercontent.com/human71/RapidCallPro/main/preview.png"></p>
+<br>
 
 ```shell
 #!/bin/bash
